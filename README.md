@@ -1,1 +1,1 @@
-# flutter-web-app
+# mind_reader_web
